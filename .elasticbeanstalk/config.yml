@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: cpclass-goldenwaste-sda-hackathon-dev
+    environment: goldenwaste-sda-hackathon-dev
     group_suffix: null
 environment-defaults:
   cpclass-goldenwaste-sda-hackathon-dev:
@@ -11,7 +11,7 @@ global:
   branch: null
   default_ec2_keyname: null
   default_platform: Docker running on 64bit Amazon Linux 2
-  default_region: us-east-1
+  default_region: us-west-2
   include_git_submodules: true
   instance_profile: null
   platform_name: null
