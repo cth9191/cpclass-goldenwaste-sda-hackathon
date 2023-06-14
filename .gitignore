@@ -41,7 +41,3 @@ secrets.yml
 .gradletasknamecache
 .sts4-cache
 gitignore
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
