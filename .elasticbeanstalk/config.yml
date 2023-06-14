@@ -2,6 +2,10 @@ branch-defaults:
   master:
     environment: cpclass-goldenwaste-sda-hackathon-dev
     group_suffix: null
+environment-defaults:
+  cpclass-goldenwaste-sda-hackathon-dev:
+    branch: null
+    repository: null
 global:
   application_name: cpclass-goldenwaste-sda-hackathon
   branch: null
